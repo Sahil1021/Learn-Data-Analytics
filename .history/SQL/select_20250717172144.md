@@ -1,0 +1,12 @@
+## Select
+
+The SELECT statement is used to select data from a database.
+
+** Key things **
+
+- You can add a new col by performing mathematical operations.
+- It follows PEMDAS order.[parenthesis, exponential, mul, div, add, sub]
+
+eg. Selection first_name, age, age + 10 from details
+
+> (It creates a new col age+10 with respective added values)
